@@ -1,8 +1,8 @@
-## Language | 语言  
-- [English](README.md)  
-- [简体中文](README.zh-CN.md)  
-- [繁體中文](README.zh-TW.md)  
-- [Español](README.es.md)
+## Language | 语言
+- [繁體中文 (台灣)](README.zh-TW.md)
+- [Русский](README.ru.md)
+- [日本語](README.ja.md)
+- [한국어](README.ko.md)
 # Mindustry Mod Collection
 
 This repository collects Mindustry mods from various sources, including **content not available in the official mod browser**. It serves as an extended mod repository with content sourced from:
