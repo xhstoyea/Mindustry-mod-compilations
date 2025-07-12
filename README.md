@@ -1,4 +1,5 @@
 ## Language | 语言
+- [简体中文](README.zh-CN.md)
 - [繁體中文 (台灣)](README.zh-TW.md)
 - [Русский](README.ru.md)
 - [日本語](README.ja.md)
