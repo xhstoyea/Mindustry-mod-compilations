@@ -25,7 +25,7 @@ Uses the mod's `minGameVersion` field as compatibility reference
 
 | Directory Name | English Description                                                                 |
 |-----------------------------|-------------------------------------------------------------------------------------|
-| **根目录**                  | Contains V7-compatible mods (`minGameVersion ≥ 136`) and repository documentation   |
+| **root directory**                  | Contains V7-compatible mods (`minGameVersion ≥ 136`) and repository documentation   |
 | **无法确定的模组版本**      | Mods with ambiguous version identifiers (unclear if new/old)                        |
 | **V7以下模组**              | Legacy mods for pre-V7 versions (`minGameVersion < 136`)                            |
 | **V8模组**                  | Next-gen mods for V8 compatibility (`minGameVersion ≥ 147`)                         |
