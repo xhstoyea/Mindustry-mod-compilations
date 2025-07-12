@@ -16,6 +16,9 @@ This repository collects Mindustry mods from various sources, including **conten
 - All mod files are named using their `displayName` (mod display name)
 - Exceptions apply to special files (e.g., mods requiring extraction)
 
+## File Updates  
+This collection will strive to ensure that the modules are in the latest version, but updates may not be timely due to various reasons. If you are willing, you can submit Pull requests to me.
+
 ## Mod Version Compatibility Standard
 Uses the mod's `minGameVersion` field as compatibility reference
 
