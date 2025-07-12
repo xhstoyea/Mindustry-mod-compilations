@@ -1,4 +1,4 @@
-# Mindustry-mod-compilations
+# Mindustry模组合集
 这里收集了一些Mindustry的模组，含有不在模组浏览器里的内容。
 你可以把它当成一个新的模组浏览器，模组来源于`QQ群`、`模组浏览器`、`GitHub`。其中，QQ群获得的模组占大部分。
 所有文件名均以模组的`displayName`名称命名，除非文件很特殊。
@@ -13,6 +13,9 @@
 
 # V7以下模组
 字面意思，就是minGameVersion低于136的模组。
+
+# V8模组
+就是一些minGameVersion大于等于147的模组
 
 # 最低游戏适配版本未知
 有些模组没写minGameVersion，导致无法分辨模组适配哪些版本，这些模组就会存在这里面。
