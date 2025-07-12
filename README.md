@@ -35,3 +35,5 @@ Uses the mod's `minGameVersion` field as compatibility reference
 ---
 #### Disclaimer
 > This repository serves only as a mod collection. We guarantee neither compatibility nor security. All mod copyrights belong to their original authors. For issues, contact: 3758268235@qq.com
+
+The content is translated by the DeepSeek large model. The translation may not be accurate, please understand. The original language is Simplified Chinese.
