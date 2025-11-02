@@ -1,0 +1,582 @@
+12 mod541 2025.11.2 2.22GB
+
+许久没更新，浅浅更新一下
+
+/storage/emulated/0/【Mindustry｜像素工厂】模组合集11需解压 by西红柿汤2025.8.18(共507个模组2.14GB，Q群1034687528)开学悲哀
+/storage/emulated/0/【Mindustry｜像素工厂】模组合集12需解压 by西红柿汤2025.11.2(共541个模组2.22GB，Q群1034687528)
+
+新增的文件：
+==============================
+A（很新的更新日志）/awa8.txt
+Fables寓言.zip
+Junction Assistant.zip
+LogicCompletion.zip
+Sound Overhaul.zip
+Tech tree full display科技树条件显示.zip
+Toggle Editor Mode.zip
+V7以下模组/文言.zip
+V7以下模组/梦魇版本.zip
+V7以下模组/繁星.zip
+V8模组/Buried in Ice.zip
+V8模组/LogicExtend - 逻辑扩展.zip
+V8模组/MindustryX Loader.zip
+V8模组/New Console Hardline.zip
+V8模组/New Console.zip
+V8模组/Psammos Mod.zip
+V8模组/RandoMindustry.zip
+V8模组/Saturation Firepower Mod.zip
+V8模组/Vanilla Expansion.zip
+V8模组/[Future Engineering]未来工程.zip
+V8模组/[TransfiniteTechnology].zip
+V8模组/mindustry旧版音乐.zip
+V8模组/压缩机械[compressed machine]测试版.zip
+V8模组/发射台还原.zip
+V8模组/可建造地板模组.zip
+V8模组/地狱模式AI增强 v149添加自动启动人机建造功能.zip
+V8模组/强化战役［SCR］.zip
+V8模组/更多设施.zip
+V8模组/杂交工厂.zip
+V8模组/核心装卸器[v493].zip
+V8模组/粒子科技.zip
+V8模组/自适应核心数据库（Adaptive Core Database）.zip
+V8模组/野性之心.zip
+Virtuality.zip
+Wayzer地图站.zip
+minZoom.zip
+原版扩展（合金升级）.zip
+宇宙回声.zip
+宇宙混音.zip
+战役拓展（丹尼亚）.zip
+晶新 战争.zip
+更多兵种EX.zip
+极限火力.zip
+神恒星域.zip
+篆书.zip
+紫钢工业.zip
+蓝图大小限制提高.zip
+蓝图工艺.zip
+赛普罗单位强化.zip
+
+删除的文件：
+==============================
+Exoprosopa.zip
+Mapping Utilities.zip
+New Console.zip
+Synthetic Crystal.zip
+V8模组/[TransfiniteTechnology]超限工艺：纷争0.4.31公测版.zip
+V8模组/核心装卸器[v489].zip
+V8模组/蓝钢工业.zip
+[Future Engineering]未来工程.zip
+压缩机械[compressed machine]测试版.zip
+最低游戏适配版本未知/繁星.zip
+神恒之心.zip
+粒子科技.zip
+自适应核心数据库（Adaptive Core Database）.zip
+野性之心.zip
+
+修改的文件：
+==============================
+A（很新的更新日志）/awa7.txt
+Betterustry Mod.zip
+Informatis.zip
+Logic-Sugar.zip
+V8模组/Asthosus.zip
+V8模组/BioTech.zip
+V8模组/Calamity.zip
+V8模组/ExtraUtilities.zip
+V8模组/Fire.zip
+V8模组/Helium.zip
+V8模组/ICBM.zip
+V8模组/Lovecraftian Library.zip
+V8模组/MI2-Utilities Java.zip
+V8模组/Meepscellaneous Concepts.zip
+V8模组/New Horizon.zip
+V8模组/Project Reindustrialization.zip
+V8模组/Saturation firepower.zip
+V8模组/mod-tools.zip
+V8模组/创世神2-起源独立版.zip
+V8模组/创世神核心加载系统前置.zip
+V8模组/废土科技.zip
+V8模组/异世科技.zip
+V8模组/精湛工艺.zip
+V8模组/黑暗纪元 The Dark Age.zip
+冥痕json.zip
+晶体工业.zip
+
+相同的文件：
+==============================
+$重工业★.zip
+2024MINDUSTRY拜年寄特别MOD.zip
+2025.02.04创世神，需解压再导入.zip
+ATRI -My Dear Moments- Original Soundtrack.zip
+Advance lighting.zip
+Advanced Industry.zip
+Aeyama：The New World.zip
+Ancient Technology.zip
+Arvtom：Last Descent (WIP).zip
+Auto Saver 自动存档器.zip
+AutoDrill.zip
+Avaritia.zip
+A（很新的更新日志）/awa.txt
+A（很新的更新日志）/awa2.txt
+A（很新的更新日志）/awa3.txt
+A（很新的更新日志）/awa4.txt
+A（很新的更新日志）/awa5.txt
+A（很新的更新日志）/awa6.txt
+A（很新的更新日志）/tips.txt
+Best alloy.zip
+BetaMindy Music.zip
+BetaMindy.zip
+Better Liquids.zip
+BetterLogisticsNetwork.zip
+Buid core units.zip
+Cheat Codes Mod.zip
+CheatMod.zip
+Chemindustry.zip
+Chemos.zip
+City Science [都市科技].zip
+Claj联机.zip
+ContentsEditor.zip
+Critical Point data.zip
+Critical Point.zip
+Cyber IO.zip
+DPS+.zip
+Diamond Ore Mod.zip
+Diamond Ore.zip
+EDEN.zip
+EX工业扩展.zip
+Endless Journey.zip
+Erekir Additions(埃里克尔补充).zip
+Erekir Additions.zip
+Erekir Extended(埃里克尔扩建).zip
+Erekir Extended.zip
+Erekir Liquefied.zip
+Erekir Logic Improved.zip
+Erekir Reworked.zip
+Erekir强化技术.zip
+Ernomytase｜埃里克尔DLC.zip
+Eternal Kingdom.zip
+Exogenesis.zip
+Exotic Mod.zip
+Exploring.zip
+Extended Zoom.zip
+Extra Utilities四周年庆典.zip
+FactoryDustry - TexturePack.zip
+Factroundustry.zip
+Fading Revelations.zip
+Fictional Octo System OST.zip
+Flame Out ＞：(.zip
+Flame Out.zip
+Flame Out（汉化）.zip
+FoodFactory.zip
+Frozen Farlands.zip
+Game Info Imager.zip
+Game difficulty adjustment游戏难度调整.zip
+Infinitode 2(无限塔防 2)音乐包.zip
+Interplanetary_Industries.zip
+LuckyBlock.zip
+MC物品.材质.zip
+MI2-ThoriumReactor.zip
+MOARdustry.zip
+M_AI.zip
+Magic &Craft.zip
+Mindustrio：AlloyCentury.zip
+Mindustry Assist-辅助.zip
+MindustryACR-G.zip
+MinerTools.zip
+More conveyors, conduits, batteries, storage and unloaders.zip
+Multi-Block Library.zip
+MultiCrafter Lib.zip
+Nindustry.zip
+Omaloon.zip
+Only routers.zip
+PT=E.zip
+PicToLogic.zip
+PicToTri汉化版.zip
+Plan｜War·赤焰零度.zip
+Project HPL.zip
+Project Unity.zip
+Project Unity汉化版.zip
+Railquish test.zip
+Random Mindustry.zip
+Recommit The Same Error.zip
+Ruins era.zip
+SB科技.zip
+Scheme Size.zip
+ScriptAgent4Mindustry.zip
+ShaYeBuShi.zip
+Shaders-DaNtesLr.zip
+Show All Secrets.zip
+ShowShowTheRange.zip
+Simplistic - TexturePack.zip
+Some Music.zip
+Special Armaments重制版.zip
+S星挖墙机.zip
+The Dark Age Music.zip
+Three body[三体].zip
+Time Control.zip
+Toggleable Flow Gate.zip
+Tower Defense.zip
+Twilight Fall.zip
+Universe Core.zip
+Unlimited Armament Works.zip
+Upgraded Blocks.zip
+V7以下模组/Auto Research.zip
+V7以下模组/Better menders.zip
+V7以下模组/DiverseTech.zip
+V7以下模组/Ex Nihilo.zip
+V7以下模组/Exotic Mod（某个同名模组）.zip
+V7以下模组/Hackustry.zip
+V7以下模组/MC×M厂无中生有 Mod.zip
+V7以下模组/Mindustry地狱插件0.15.zip
+V7以下模组/NeonNights v7.zip
+V7以下模组/Progression Ministry.zip
+V7以下模组/Unit Factory 汉化+去限.zip
+V7以下模组/Vanilla Extended.zip
+V7以下模组/光耀旧世界.zip
+V7以下模组/小型机械.zip
+V7以下模组/开挂mod.zip
+V7以下模组/新科技.zip
+V7以下模组/无限宇宙18重置.zip
+V7以下模组/时代变了.zip
+V7以下模组/更多地板发电机.zip
+V7以下模组/濒临V4.8-6.0适配版.zip
+V7以下模组/生存版沙盒多件套.zip
+V7以下模组/简单生产模组.zip
+V7以下模组/粒子物理7.0.zip
+V7以下模组/蒸汽工业.zip
+V7以下模组/解锁全科技.zip
+V7以下模组/计划战争_零度.zip
+V7以下模组/重启.zip
+V8模组/(v8) Invincible Cheat 无敌作弊.zip
+V8模组/Agzam's Mod.zip
+V8模组/Allure.zip
+V8模组/Aquarion.zip
+V8模组/ArchiveDustry Java.zip
+V8模组/Ayachi Factory.zip
+V8模组/BioTech汉化版.zip
+V8模组/CLaJ.zip
+V8模组/ContentsTweaker-内容包修改器.zip
+V8模组/CrazyRed.zip
+V8模组/Exogenesis.zip
+V8模组/Exoprosopa.zip
+V8模组/FrozenForest.v1.zip
+V8模组/Hallucinogen.zip
+V8模组/ItemBridgeX.zip
+V8模组/Java Mod Template.zip
+V8模组/Logic Screenshot.zip
+V8模组/Lovecraftian Laboratory.zip
+V8模组/Map Filter Ext.zip
+V8模组/Mapping Utilities.zip
+V8模组/Media2Logic.zip
+V8模组/Mindustry Tool.zip
+V8模组/PlanWar-计划战争.zip
+V8模组/Production Mod.zip
+V8模组/Project：Industry.zip
+V8模组/Project：Restoration.zip
+V8模组/Reindustrialization.zip
+V8模组/Sapphirium.zip
+V8模组/Schematic Parse.zip
+V8模组/Subvoyage.zip
+V8模组/Synthetic Crystal.zip
+V8模组/Testing Utilities.zip
+V8模组/Too Many Items.zip
+V8模组/Tools.zip
+V8模组/UI Lib.zip
+V8模组/Unit Arsenal.zip
+V8模组/Yellow (Java).zip
+V8模组/lottery mod（抽卡模拟）.zip
+V8模组/more eriker equipment.zip
+V8模组/omaniustry.zip
+V8模组/reVision.zip
+V8模组/以太编年史.zip
+V8模组/创世神3-DLC.幻想工程.zip
+V8模组/单位强化.zip
+V8模组/压缩重工业2-重生.zip
+V8模组/地图限制提高.zip
+V8模组/埃里克卫星.zip
+V8模组/寒冰之下.zip
+V8模组/战术深空.zip
+V8模组/整活语言包.zip
+V8模组/无尽压缩Endless Compression.zip
+V8模组/无限资源.zip
+V8模组/时代Age.zip
+V8模组/更变态的行星发动机.zip
+V8模组/更好的生产.zip
+V8模组/格雷工业.zip
+V8模组/永恒纪元.zip
+V8模组/没想好名字的原版修改模组.zip
+V8模组/深渊纷争.zip
+V8模组/狐冥.zip
+V8模组/矩形材质包-建筑V1.0.6.zip
+V8模组/神恒之心.zip
+V8模组/离谱科技（e星更新）.zip
+V8模组/联机.zip
+V8模组/萌化字体.zip
+V8模组/逻辑翻译补丁-149-1.zip
+V8模组/钻井平台[v126].zip
+V8模组/防卡世处.zip
+V8模组/集体科学.zip
+V8模组/食品工厂-经典版.zip
+Virtual Scheme Pack.zip
+WAISA.zip
+WTMF.zip
+World Logic Archive.zip
+Xenacia.zip
+[数据删除].zip
+beginend联动蓝钢.zip
+china music partiya.zip
+combat dustry.zip
+designation420.zip
+disintegration.zip
+extended UI.zip
+extended.zip
+hardcore埃里克尔.zip
+hardcore赛普罗.zip
+lzwd's Map Addition.zip
+mdt刻板印象成真记.zip
+newunits.zip
+ohno科技.zip
+sakura-fall.zip
+techtree unlock.zip
+tendernightmod.zip
+tinport serpulo resprites.zip
+yr2 Logic Debugger.zip
+zerg.zip
+~SAKANA~.zip
+《整活像素》.zip
+一个原版拓展0.14.zip
+一个烂模组.zip
+三角技术.zip
+中子科技.zip
+二次革命.zip
+什么东西.zip
+作弊工具.zip
+侵蚀之地.zip
+光辉.zip
+全球服务器中国版.zip
+全球行动.zip
+冰霜未来.zip
+出怪点显示.zip
+分解工程.zip
+创世神3-DLC.塔防.zip
+创世神3-仙明决Creators 3.zip
+创世神3-塔防.zip
+创世神3-征途.zip
+创世神下载器.zip
+创世神核心加载系统.zip
+化学工业α0.02a2.zip
+升级mod.zip
+单属体.zip
+原版扩展.zip
+反射合金指针refluct needles.zip
+发电工业.zip
+古裂界Ancient fissure boundary.zip
+合晶工业.zip
+合金工业.zip
+合金进化.zip
+后勤运输扩展.zip
+启航.zip
+哈基米.zip
+土豆科技.zip
+地砖.zip
+埃里克尔AR.zip
+埃里克尔更多设备-战役附属.zip
+埃里克尔的神.zip
+塔防.zip
+塞普罗单位强化.zip
+墙体贴图重置(wall++).zip
+增强工业-136.zip
+复古材质包.zip
+外挂源.zip
+多人地块优化.zip
+太阳系模组.zip
+奇点-分离.zip
+始终.zip
+宇宙之旅.zip
+将至.zip
+尘土.zip
+工业巨头--依旧是懒得起小标题.zip
+工业拓展.zip
+工业链.zip
+帕沙尼亚.zip
+幻境.zip
+废物之崛起.zip
+悖论科技.zip
+憨包mod.zip
+战争工业[War industry].zip
+打我MOD.zip
+扩列★工业.zip
+投影.zip
+拂尘.zip
+文明终章-破碎时空.zip
+旅途.zip
+无尽奇点[Endless Singularity]0.2.6-END？.zip
+无尽贪婪.zip
+无法确定的模组版本/星空战争•往昔回忆•图标(必须搭配本体使用).zip
+无法确定的模组版本/星空战争•往昔回忆•本体(必须同时装载logo).zip
+无法确定的模组版本/星空战争•末日之战•本体1.5.zip
+无限核心容量.zip
+无限火力.zip
+日耀(Pw版).zip
+旧时战争.zip
+时间控制.zip
+昔日荣光.zip
+星光.zip
+星尘工艺.zip
+星河.zip
+星流之神.zip
+星海.zip
+星球争霸.zip
+星球限制解除.zip
+星界探索.zip
+星耀光棱.zip
+星辰大海.zip
+星际危机.zip
+星际重启.zip
+更多埃里克尔液体.zip
+更多太阳能.zip
+更多实用设备扩展.zip
+更多核心.zip
+更好的战役.zip
+最低游戏适配版本未知/Better blocks mod.zip
+最低游戏适配版本未知/Command Mod.zip
+最低游戏适配版本未知/Example Mod.zip
+最低游戏适配版本未知/Mindustry Green.zip
+最低游戏适配版本未知/Supporting Industry辅助工业.zip
+最低游戏适配版本未知/more thing中文版.zip
+最低游戏适配版本未知/moreORE.zip
+最低游戏适配版本未知/test.zip
+最低游戏适配版本未知/冰霜工业.zip
+最低游戏适配版本未知/原子工业.zip
+最低游戏适配版本未知/咸鱼兵器.zip
+最低游戏适配版本未知/宇宙文明.zip
+最低游戏适配版本未知/宇宙文明logo.zip
+最低游戏适配版本未知/宇宙文明地板.zip
+最低游戏适配版本未知/工业与魔法(植物魔法).zip
+最低游戏适配版本未知/平衡炮台mod.zip
+最低游戏适配版本未知/张业成.zip
+最低游戏适配版本未知/憨批mod.zip
+最低游戏适配版本未知/战略部队.zip
+最低游戏适配版本未知/新工业Mod.zip
+最低游戏适配版本未知/无羁炮.zip
+最低游戏适配版本未知/无羁炮，渣机专用版一炮秒杀.zip
+最低游戏适配版本未知/星系-前置.zip
+最低游戏适配版本未知/星系.zip
+最低游戏适配版本未知/星辰科技.zip
+最低游戏适配版本未知/星际-工业V0.4.zip
+最低游戏适配版本未知/更多太阳能.zip
+最低游戏适配版本未知/更多机甲平台Mod.zip
+最低游戏适配版本未知/更多矿物.zip
+最低游戏适配版本未知/更大炮台底座贴图mod.zip
+最低游戏适配版本未知/机械文明.zip
+最低游戏适配版本未知/核战-工业.zip
+最低游戏适配版本未知/水-工业.zip
+最低游戏适配版本未知/源能时代.zip
+最低游戏适配版本未知/濒临-开挂mod.zip
+最低游戏适配版本未知/灌装工业.zip
+最低游戏适配版本未知/火力不足？.zip
+最低游戏适配版本未知/生物工业.zip
+最低游戏适配版本未知/碳基生命殖民计划.zip
+最低游戏适配版本未知/科技革命 Mod.zip
+最低游戏适配版本未知/终末纪元.zip
+最低游戏适配版本未知/终极采矿机.zip
+最低游戏适配版本未知/艾博士的实验科技.zip
+最低游戏适配版本未知/虚无.zip
+最低游戏适配版本未知/计划融入.zip
+最低游戏适配版本未知/计划融入☹.zip
+最低游戏适配版本未知/超级科技.zip
+最低游戏适配版本未知/转换炉(认真查看简介).zip
+最低游戏适配版本未知/钻石工业mod.zip
+最低游戏适配版本未知/额外巨浪工业.zip
+最低游戏适配版本未知/食品工业.zip
+机械动力.zip
+机械工业.zip
+极简材质包.zip
+林业.zip
+果园.zip
+枪械科技.zip
+栅格工艺.zip
+核威慑.zip
+核心美化 04.zip
+核心资源显示.zip
+梦境.zip
+植物业.zip
+模初的更多e星设备.zip
+死焉.zip
+毒蓝.zip
+水质优化.zip
+沙漠工业.zip
+泛用实用设备(Generic-Utilities).zip
+泰坦瑞拉.zip
+混合工业.zip
+灾星.zip
+爱丽丝特供.zip
+物质工业.zip
+玩家秒伤跳字.zip
+环境优化.zip
+现代战争.zip
+现代科技.zip
+现代科技（地球扩展包）.zip
+现实工艺  V7特别版.zip
+界限.zip
+癫狂赤色.zip
+矩阵能源.zip
+碳钢工业.zip
+禁止反击.zip
+离子技艺.zip
+离谱模组.zip
+科技全显示.zip
+科技树全开-占领星球.zip
+科技树全解锁.zip
+穷途末路0.01.zip
+穹窿.zip
+纳米塑化机.zip
+纳米虫[102].zip
+经典注册机音乐合集.zip
+翻译.zip
+肿瘤阵营.zip
+脏话语言.zip
+自制科技.zip
+艾慕科技.zip
+苍穹征途.zip
+英语单词表音效.zip
+莫比乌斯科技V2.7.0.0.0.1.zip
+蒸汽朋克工业.zip
+蓝图效率.zip
+蓝钢拓展.zip
+蔚蓝行星.zip
+虚幻.zip
+虚无.zip
+虚无工业.zip
+虫族.zip
+蜜汁音效包.zip
+融合产物工艺.zip
+血之猩红.zip
+血肉诅咒.zip
+行星发动机.zip
+裂变Fission.zip
+调色器.zip
+起源致终末.zip
+跃迁.zip
+转换工业.zip
+辅助MOD.zip
+辅助整合MOD.zip
+辅助模组.zip
+重启.zip
+重始科技.zip
+重置UUID.zip
+钍工业.zip
+钍爬爬堆.zip
+钛铅工业.zip
+钻头单位.zip
+钻头单位加仓库单位.zip
+钻石辅助模组.zip
+铁锈单位.zip
+铧金工业.zip
+音乐播放器.zip
+音效库限时免费.zip
+额外巨浪工业.zip
+饱和火力-工业拓展mod.zip
+高科技.zip
+黑暗纪元音乐包.zip
