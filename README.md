@@ -1,3 +1,5 @@
+![Mindustry-mod-compilations](https://count.getloli.com/@Mindustry-mod-compilations?name=Mindustry-mod-compilations&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 ## Language | 语言
 - [简体中文](README.zh_CN.md)
 - [繁體中文 (台灣)](README.zh_TW.md)
